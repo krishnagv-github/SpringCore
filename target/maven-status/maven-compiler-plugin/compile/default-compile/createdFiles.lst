@@ -1,0 +1,10 @@
+trng\samp\hibernate\utils\HibernateUtils.class
+trng\samp\hibernate\dao\CustDaoInt.class
+trng\samp\hibernate\pojo\Customers.class
+trng\samp\hibernate\pojo\Orders.class
+trng\samp\hibernate\dao\CustDaoImpl.class
+trng\samp\hibernate\CustomerApp.class
+trng\samp\hibernate\dao\OrderDaoImpl.class
+trng\samp\hibernate\OrderApp.class
+trng\samp\hibernate\pojo\OrderItems.class
+trng\samp\hibernate\dao\OrderDaoInt.class
